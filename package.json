@@ -8,7 +8,7 @@
   },
   "repository": "",
   "author": "",
-  "license": "BSD"
+  "license": "BSD",
   "files" : [ "jar-files" ]
   "dependencies" : {
     "minecraft-jar-files" : "git://github.com/steve/minecraft-jar-files.git#v1.47"
