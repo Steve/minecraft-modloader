@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-modloader",
+  "version": "1.4.7",
+  "description": "minecraft modloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+  "files" : [ "jar-files" ]
+  "dependencies" : {
+    "minecraft-jar-files" : "git://github.com/steve/minecraft-jar-files.git#v1.47"
+  }
+}
